@@ -1,2 +1,2 @@
-# prectice_mode
+# DevArmy
 creating fully working mern website 
